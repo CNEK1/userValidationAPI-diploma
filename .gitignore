@@ -1,0 +1,7 @@
+/node_modules
+.prettierrc
+/.vscode
+/dist
+/.clinic
+/.env
+/prisma/dev.db-journal
